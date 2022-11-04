@@ -24,3 +24,14 @@ const users = [joshua, mike];
 console.log(users);
 console.log(users[0].name);
 
+const num1 = 1;
+const num2 = 2; 
+const result = num1 + num2;
+
+console.log(result);
+
+const firstName = `joshua`;
+const lastName = `alvarado`;
+const fullName = firstName + ` ` + lastName;
+// console.log(fullName);
+// console.log(firstName + lastName);
