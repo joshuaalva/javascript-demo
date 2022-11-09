@@ -55,3 +55,5 @@ function sum(num1, num2) {
 
 sum();
 sum(3, 5);
+
+// went over tidy code. excercises off vscode.
